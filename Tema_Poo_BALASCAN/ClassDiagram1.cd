@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logger" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGit" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAAAAAAAAAAIAAAACAAAgAAAAAIgAACYAAQCAAA=</HashCode>
+      <FileName>MiniGit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitAdder" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MiniGitAdder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitCommiter" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAAAAA=</HashCode>
+      <FileName>MiniGitCommiter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitIniter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAIgAAAAAAAAAAA=</HashCode>
+      <FileName>MiniGitIniter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitLogger" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MiniGitLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitPuller" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAACAAABAAAA=</HashCode>
+      <FileName>MiniGitPuller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniGitPusher" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAIAAAAAQA=</HashCode>
+      <FileName>MiniGitPusher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+git init C:\Users\Gabe\Desktop\da
+git add local.txt
+git commit commit23
+git push origin master
+git pull C:\Users\Gabe\Desktop\da\remote 0_1.commit
+dsalk
